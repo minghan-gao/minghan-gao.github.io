@@ -37,7 +37,7 @@ cv:
         keywords: "Wearable sensing and signal processing, ubiquitous and embodied computing, accessibility and assistive technologies"
 
     Publications:
-      - title: "VoiceMorph: A Novel Speech-Driven Interface for Real-Time Cross-Individual Voice Transformation"
+      - title: "VoiceMorph: How AI Voice Morphing Reveals the Boundaries of Auditory Self-Recognition"
         authors:
           - Kye Shimizu
           - Minghan Gao
@@ -47,7 +47,7 @@ cv:
         releaseDate: 2025
         url: https://doi.org/10.48550/arXiv.2510.16192
 
-      - title: "Emotional Voice Integration in American Sign Language: Enhancing Communication and Expression for Deaf and Hard of Hearing Individuals"
+      - title: "Exploring the Impact of Emotional Voice Integration in Sign-to-Speech Translators for Deaf-to-Hearing Communication"
         authors:
           - Hyunchul Lim
           - Minghan Gao

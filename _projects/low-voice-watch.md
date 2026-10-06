@@ -4,7 +4,7 @@ title: Low-voice recognition on a smartwatch
 description: A wrist-worn ultrasonic sensing prototype for recognizing whispered commands.
 importance: 2
 category: project
-# img: assets/img/project-low-voice-watch.jpg
+img: assets/img/research-voicemorph.png
 ---
 
 **Role:** Hardware prototyping, data collection, and machine learning · **Period:** January–May 2025

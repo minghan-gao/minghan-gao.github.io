@@ -7,7 +7,10 @@ nav: true
 nav_order: 1
 
 # Replace "false" with the profile block in MISSING_ASSETS.md after adding a headshot.
-profile: assets/img/prof_pic.jpg
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
 
 selected_papers: true
 social: true
