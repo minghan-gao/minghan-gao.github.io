@@ -2,33 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Human-computer interaction · wearable and health sensing · accessibility
 
+# Replace "false" with the profile block in MISSING_ASSETS.md after adding a headshot.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: false
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a master's student in **Health Tech at Cornell** building human-centered sensing and interactive systems for health, accessibility, and skill support. My work combines technical prototyping with user research to understand how computational systems can fit into people's everyday lives.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My interests include:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- wearable sensing and signal processing
+- ubiquitous and embodied computing
+- accessibility and assistive technologies
+
+I currently work with Professor **[Justin Chan](https://semanticsignals.com/)** at Carnegie Mellon University on vision-language models for feedback during physical tasks. I have also explored personalized voice systems with Professor **[Thijs Roumen](https://www.matteroftechlab.org/)** at Cornell.
+
+During my undergrad, I worked with Professor **[Cheng Zhang](https://www.scifilab.org/)** in Cornell's SciFi Lab on emotionally expressive voice for American Sign Language communication, and with Professor **[Pattie Maes](https://www.media.mit.edu/groups/fluid-interfaces/overview/)** in the MIT Media Lab's Fluid Interfaces group on real-time voice transformation.
+
+I am interested in PhD opportunities at the intersection of HCI, wearable and health sensing, accessibility, and interactive systems.
