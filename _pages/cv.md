@@ -1,12 +1,15 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/minghan-gao-cv.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: Education, research experience, publications, and selected projects.
-toc:
-  sidebar: left
+description: Download my curriculum vitae.
 ---
+
+<a class="btn btn-outline-primary"
+   href="{{ '/assets/pdf/minghan-gao-cv.pdf' | relative_url }}"
+   download>
+  <i class="fa-solid fa-download" aria-hidden="true"></i>
+  Download CV
+</a>
