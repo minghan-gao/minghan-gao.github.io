@@ -4,7 +4,7 @@ title: VoiceMorph
 description: A real-time voice transformation system for studying auditory self-recognition.
 importance: 3
 category: research
-img: assets/img/research-voicemorph.png
+# img: assets/img/research-voicemorph.png
 ---
 
 **Role:** Research Intern · **Collaborators:** Pattie Maes and Kye Shimizu, MIT Media Lab · **Period:** May–September 2025

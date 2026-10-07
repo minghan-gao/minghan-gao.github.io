@@ -4,7 +4,7 @@ title: Emotional voice in ASL translation
 description: Studying expressive synthesized speech in Deaf-to-hearing communication.
 importance: 4
 category: research
-img: assets/img/research-asl-voice.png
+# img: assets/img/research-asl-voice.png
 ---
 
 **Role:** Research Assistant · **Collaborators:** Cheng Zhang and Hyunchul Lim, Cornell · **Period:** February–September 2024
