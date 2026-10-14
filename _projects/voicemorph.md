@@ -5,6 +5,12 @@ description: A real-time voice transformation system for studying auditory self-
 importance: 3
 category: research
 # img: assets/img/research-voicemorph.png
+
+period: "May–September 2025"
+institution: "MIT Media Lab · Fluid Interfaces"
+people: "With Pattie Maes and Kye Shimizu"
+contribution: "Built the real-time experimental interface in TouchDesigner and analyzed participants’ perceptions of transformed voice identity."
+paper_url: "https://arxiv.org/abs/2510.16192"
 ---
 
 **Role:** Research Intern · **Collaborators:** Pattie Maes and Kye Shimizu, MIT Media Lab · **Period:** May–September 2025

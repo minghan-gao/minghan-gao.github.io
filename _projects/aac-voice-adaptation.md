@@ -5,6 +5,11 @@ description: Lightweight interaction techniques for adapting synthetic voice dur
 importance: 2
 category: research
 # img: assets/img/research-aac.jpg
+
+period: "2026 · Exploratory work"
+institution: "Cornell University"
+people: "With Thijs Roumen and Tobias Weinberg"
+contribution: "Exploring lightweight controls for expressive synthetic speech and framing a study around self-expression and conversational flow."
 ---
 
 **Role:** Research Intern · **Collaborators:** Thijs Roumen and Tobias Weinberg, Cornell · **Period:** Exploratory research, 2026

@@ -5,6 +5,11 @@ description: A responsive experimental interface for real-time GPT-4 conversatio
 importance: 6
 category: research
 # img: assets/img/research-persuasive-chatbot.jpg
+
+period: "September–December 2023"
+institution: "Cornell University"
+people: "Advisor: Susan Fussell"
+contribution: "Built the responsive React interface, integrated GPT-4 conversations, and implemented automatic study logging."
 ---
 
 **Role:** Research Assistant · **Advisor:** Susan Fussell, Cornell · **Period:** September–December 2023

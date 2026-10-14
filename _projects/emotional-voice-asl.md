@@ -5,6 +5,12 @@ description: Studying expressive synthesized speech in Deaf-to-hearing communica
 importance: 4
 category: research
 # img: assets/img/research-asl-voice.png
+
+period: "February–September 2024"
+institution: "Cornell University · SciFi Lab"
+people: "With Cheng Zhang and Hyunchul Lim"
+contribution: "Developed the emotional text-to-speech pipeline, implemented user studies, and analyzed how synthesized voice conveys signers’ emotions."
+paper_url: "https://dl.acm.org/doi/10.1145/3757597"
 ---
 
 **Role:** Research Assistant · **Collaborators:** Cheng Zhang and Hyunchul Lim, Cornell · **Period:** February–September 2024

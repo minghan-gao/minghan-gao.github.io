@@ -5,6 +5,11 @@ description: Large-scale analysis of how referral pathways shape scholarly disco
 importance: 5
 category: research
 # img: assets/img/research-arxiv-behavior.jpg
+
+period: "June–August 2024"
+institution: "Cornell University"
+people: "Advisor: Yian Yin"
+contribution: "Filtered automated traffic and constructed user-level reading timelines to analyze scholarly discovery and engagement."
 ---
 
 **Role:** Research Intern · **Advisor:** Yian Yin, Cornell · **Period:** June–August 2024

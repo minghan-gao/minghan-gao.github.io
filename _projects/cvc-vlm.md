@@ -5,6 +5,11 @@ description: Evidence-grounded assessment and corrective feedback for central ve
 importance: 1
 category: research
 # img: assets/img/research-cvc.jpg
+
+period: "September 2026–present"
+institution: "Carnegie Mellon University"
+people: "Advisor: Justin Chan"
+contribution: "Developing video-analysis pipelines and evaluating vision-language models for procedural understanding, performance assessment, and corrective feedback."
 ---
 
 **Role:** Visiting Researcher · **Advisor:** Justin Chan, Carnegie Mellon University · **Period:** September 2026–present
