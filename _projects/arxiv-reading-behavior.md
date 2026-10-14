@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: research-project
 title: arXiv reading behavior
 description: Large-scale analysis of how referral pathways shape scholarly discovery and reading.
 importance: 5
@@ -12,7 +12,11 @@ people: "Advisor: Yian Yin"
 contribution: "Filtered automated traffic and constructed user-level reading timelines to analyze scholarly discovery and engagement."
 ---
 
-**Role:** Research Intern · **Advisor:** Yian Yin, Cornell · **Period:** June–August 2024
+<div class="project-context">
+  June–August 2024 · Research Intern<br>
+  Cornell University<br>
+  With Professor Yian Yin
+</div>
 
 ## Overview
 
@@ -25,3 +29,7 @@ I analyzed activity from 4.8 million arXiv users to investigate how researchers 
 - Analyzed referral-driven patterns in reading recency, team composition, and paper visibility.
 
 The project strengthened my interest in computational social science methods for understanding real-world information behavior.
+
+## Research poster
+
+[View the research poster on Google Drive]([https://drive.google.com/file/d/1y1ybFow-UJSpJ9Z7zWu1Ipb0Bnxnw1-J/view?usp=drive_link)

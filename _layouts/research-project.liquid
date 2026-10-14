@@ -1,0 +1,56 @@
+---
+layout: page
+---
+
+<style>
+  .post .post-title {
+    font-size: clamp(1.7rem, 4vw, 2.1rem);
+    font-weight: 500;
+    line-height: 1.25;
+  }
+
+  .post .post-description {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--global-text-color-light);
+  }
+
+  .research-project-body {
+    font-size: 1rem;
+    line-height: 1.75;
+  }
+
+  .research-project-body h2 {
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .research-project-body h3 {
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin-top: 1.5rem;
+  }
+
+  .research-project-body li {
+    margin-bottom: 0.4rem;
+  }
+
+  .research-project-body img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .research-project-body .project-context {
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+    line-height: 1.7;
+    margin-bottom: 1.75rem;
+  }
+</style>
+
+<div class="research-project-body">
+  {{ content }}
+</div>

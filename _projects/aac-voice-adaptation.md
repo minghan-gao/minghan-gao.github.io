@@ -1,18 +1,22 @@
 ---
-layout: page
+layout: research-project
 title: Expressive voice adaptation in AAC
 description: Lightweight interaction techniques for adapting synthetic voice during conversation.
 importance: 2
 category: research
 # img: assets/img/research-aac.jpg
 
-period: "2026 · Exploratory work"
-institution: "Cornell University"
-people: "With Thijs Roumen and Tobias Weinberg"
+period: "September 2026–present"
+institution: "Cornell Tech"
+people: "Advisor: Thijs Roumen"
 contribution: "Exploring lightweight controls for expressive synthetic speech and framing a study around self-expression and conversational flow."
 ---
 
-**Role:** Research Intern · **Collaborators:** Thijs Roumen and Tobias Weinberg, Cornell · **Period:** Exploratory research, 2026
+<div class="project-context">
+  September 2026–present · Research Assistant<br>
+  Cornell Tech · Matter of Tech Lab<br>
+  With Professor Thijs Roumen and PhD student Tobias Weinberg
+</div>
 
 ## Research question
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: research-project
 title: Low-voice recognition on a smartwatch
 description: A wrist-worn ultrasonic sensing prototype for recognizing whispered commands.
 importance: 2

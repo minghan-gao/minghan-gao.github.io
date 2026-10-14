@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: research-project
 title: Persuasive chatbot research platform
 description: A responsive experimental interface for real-time GPT-4 conversations and study logging.
 importance: 6
@@ -12,7 +12,11 @@ people: "Advisor: Susan Fussell"
 contribution: "Built the responsive React interface, integrated GPT-4 conversations, and implemented automatic study logging."
 ---
 
-**Role:** Research Assistant · **Advisor:** Susan Fussell, Cornell · **Period:** September–December 2023
+<div class="project-context">
+  September–December 2023 · Research Assistant<br>
+  Cornell University<br>
+  With Professor Susan Fussell and PhD student Tuan-he Lee
+</div>
 
 ## Overview
 
