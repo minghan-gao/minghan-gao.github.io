@@ -20,7 +20,7 @@ latest_posts:
   enabled: false
 ---
 
-I recently completed my undergraduate studies from **Cornell University**, where I studied Information Science and Communication. My research focuses on building human-centered sensing and interactive systems that support health, accessibility, and everyday activities. I combine technical prototyping with user-centered research to explore how intelligent systems can better understand and respond to people's needs in real-world settings.
+I recently completed my undergraduate studies at **Cornell University**, where I studied Information Science and Communication. My research focuses on building human-centered sensing and interactive systems that support health, accessibility, and everyday activities. I combine technical prototyping with user-centered research to explore how intelligent systems can better understand and respond to people's needs in real-world settings.
 
 My research interests include:
 

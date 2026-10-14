@@ -32,4 +32,4 @@ The project strengthened my interest in computational social science methods for
 
 ## Research poster
 
-[View the research poster on Google Drive]([https://drive.google.com/file/d/1y1ybFow-UJSpJ9Z7zWu1Ipb0Bnxnw1-J/view?usp=drive_link)
+[View the research poster](https://drive.google.com/file/d/1y1ybFow-UJSpJ9Z7zWu1Ipb0Bnxnw1-J/view?usp=drive_link)

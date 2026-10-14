@@ -291,3 +291,12 @@ html[data-theme="dark"] {
   --global-danger-block-text: #ecd2cb;
   --global-danger-block-title: #d9afa4;
 }
+
+/* Smaller social icons on the About page */
+.social .contact-icons {
+  font-size: 1.8rem;
+}
+
+.social .contact-icons a {
+  margin: 0 0.35rem;
+}
